@@ -1,0 +1,7 @@
+library/
+local/
+settings/
+temp/
+packages/
+
+assets/**.meta*
